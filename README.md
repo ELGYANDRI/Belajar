@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+NAMA  : ELGYABDRI KADONDIN . T
+NPM   : 07352311076
+KELAS : 5IF2
